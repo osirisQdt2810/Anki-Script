@@ -1,3 +1,6 @@
-[submodule "Audio-Cloze"]
-	path = Audio-Cloze
-	url = git@github.com:osirisQdt2810/Audio-Cloze.git
+[submodule "anki_cloze_audio"]
+  path = anki_cloze_audio
+  url = git@github.com:osirisQdt2810/Audio-Cloze.git
+[submodule "anki_note_updater"]
+	path = anki_note_updater
+	url = git@github.com:osirisQdt2810/Anki-Note-Updater.git
